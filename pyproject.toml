@@ -9,4 +9,5 @@ dependencies = [
     "python-docx>=0.8.11",
     # transformers could be used for advanced summarisation, omitted here for simplicity
     # "transformers>=4.37",
+    "scikit-learn>=1.7.2",
 ]
