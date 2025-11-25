@@ -45,7 +45,7 @@ de leis e normativos relevantes.
 2. Execute a aplicação com o Streamlit:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 3. Acesse o endereço indicado no console (por padrão, `http://localhost:8501`).
